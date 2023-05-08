@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/notomer/">
     <img align="left" alt="Omer Khan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>  
-</div>
+</div>  
 
 ## About me 🙋🏽‍♂️
 
