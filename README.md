@@ -20,9 +20,10 @@ In particular, I am interested in expanding our current scope with AI and comput
 
 As an intern at Apple, I worked on the continuous integration and deployment (CI/CD) process, creating new features and improvements to streamline and optimize the development workflow. This experience provided me with invaluable insights into the software development process and allowed me to develop my skills in a variety of programming languages and tools.
 
-During my time at Apple, I had the opportunity to learn more about Git, a version control system used by developers around the world, as well as various scripting languages such as Shell, Ruby, and AppleScript. These skills enabled me to contribute significantly to the development of new features and tools for the CI/CD process.
+During my time at Apple, I had the opportunity to gain a deeper understanding about Git, as well as various scripting languages such as Shell, Ruby, and AppleScript.  These skills enabled me to contribute significantly to the development of new features and tools for the CI/CD process.
 
-Over the course of my internship, I was able to create eight new features to improve the CI/CD process, each designed to address specific needs and constraints identified by other teams. By working collaboratively with my colleagues and leveraging my newfound expertise in Git and scripting languages, I was able to develop solutions that were efficient, effective, and tailored to the needs of the Apple development team.
+Over the course of my internship, I was able to create eight new features to improve the CI/CD process, each designed to address specific needs and constraints identified by other teams. By working collaboratively with my colleagues and leveraging my newfound expertise in Git and scripting languages, I was able to develop solutions that were efficient, effective, and tailored to the needs of the Apple development team. Identifying what bottlenecks our engineers have been facing and what tools we can extend to help aide with the CI/CD process. Fostering efficient development workflows and improved productivity, by engineers, for engineers.The opportunity to work on challenging projects and collaborate with cross-functional teams has been invaluable for my professional growth.
+
 
 ### Community Python Class
 
@@ -48,7 +49,7 @@ In Order
 
 * Flow: I use Flow for managing my time with the Pomodoro technique to stay focused and avoid distractions.
 
-* Freeform: I use Freeform for making diagrams because it's easy to use and can export in different formats. It's also Apple's own app for drawing diagrams.
+* Freeform: I use Freeform for making diagrams because it's easy to use and can export in different formats. It's Apple's own app for drawing diagrams and graphs.
 
 ## Free time:
  * Being with friends!
