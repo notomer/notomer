@@ -1,12 +1,13 @@
-### Hey, I'm Omer <img src="https://i.imgur.com/vWJG0.gif" width="25px">
+# Hey, I'm Omer <img src="https://i.imgur.com/vWJG0.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/notomer/">
   <img align="left" alt="Omer Khan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
+
 <br />
-About me 🙋🏽‍♂️
+## About me 🙋🏽‍♂️
 
 
 Currently, a Computer Science student at George Mason University
@@ -15,7 +16,7 @@ I am incredibly passionate about Machine Learning and iOS/macOS application deve
 
 In particular, I am interested in expanding our current scope with AI and computer vision. I believe that there is so much untapped potential in these fields, and I am excited to contribute to their growth and development. By pushing the boundaries of what is currently considered the norm, we can create innovative solutions that solve complex problems and make a meaningful impact on people's lives.
 
-**Experience:**
+##Experience:
 
 ### Apple Intern
 
@@ -36,9 +37,9 @@ Being able to share my knowledge and passion for computer science with others wa
 I look forward to continuing to find opportunities to teach and mentor others in the future, and I am committed to giving back to my community by sharing my knowledge
 
 <br />
-👨🏽‍💻 What apps I use
+## 👨🏽‍💻 What apps I use
 
-<img alt="VScode" src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png" width="20" height="20"> <img alt="xcode" src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" width="20" height="20"> <img alt="BBedit" src="https://cdn.jim-nielsen.com/macos/1024/bbedit-2019-04-22.png" width="20" height="20"> <img alt="Flow" src="https://flowapp.info/wp-content/uploads/2020/05/flow-logo-1024x1024.png" width="20" height="20"> <img alt="FreeForm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Apple_Freeform_icon.svg/1920px-Apple_Freeform_icon.svg.png?20221230141620" width="20" height="20">
+<img alt="VScode" src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png" width="40" height="40"> <img alt="xcode" src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" width="40" height="40"> <img alt="BBedit" src="https://cdn.jim-nielsen.com/macos/1024/bbedit-2019-04-22.png" width="40" height="40"> <img alt="Flow" src="https://flowapp.info/wp-content/uploads/2020/05/flow-logo-1024x1024.png" width="40" height="40"> <img alt="FreeForm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Apple_Freeform_icon.svg/1920px-Apple_Freeform_icon.svg.png?20221230141620" width="40" height="40">
 
 In Order
 
