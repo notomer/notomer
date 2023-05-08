@@ -5,24 +5,6 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=Hamza-Aziz.Hamza-Aziz)
-
-<br />
-👨🏽‍💻 What apps I use
-
-<img alt="VScode" src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png">  <img alt="xcode" src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png">  <img alt="BBedit" src="https://cdn.jim-nielsen.com/macos/1024/bbedit-2019-04-22.png">  <img alt="Flow" src="https://flowapp.info/wp-content/uploads/2020/05/flow-logo-1024x1024.png">  <img alt="FreeForm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Apple_Freeform_icon.svg/1920px-Apple_Freeform_icon.svg.png?20221230141620"> 
-
-* VSCode: I use VSCode for coding because it has tons of cool plugins and features that make my life easier.
-
-* Xcode: I use Xcode for making iOS and macOS apps because it's got everything I need to design, build, test, and deploy.
-
-* BBEdit: I use BBEdit for editing text and code because it's super powerful and customizable.
-
-* Flow: I use Flow for managing my time with the Pomodoro technique to stay focused and avoid distractions.
-
-* Freeform: I use Freeform for making diagrams because it's easy to use and can export in different formats. It's also Apple's own app for drawing diagrams.
-
-
 <br />
 About me 🙋🏽‍♂️
 
@@ -35,12 +17,15 @@ In particular, I am interested in expanding our current scope with AI and comput
 
 **Experience:**
 
+### Apple Intern
+
 As an intern at Apple, I worked on the continuous integration and deployment (CI/CD) process, creating new features and improvements to streamline and optimize the development workflow. This experience provided me with invaluable insights into the software development process and allowed me to develop my skills in a variety of programming languages and tools.
 
 During my time at Apple, I had the opportunity to learn more about Git, a version control system used by developers around the world, as well as various scripting languages such as Shell, Ruby, and AppleScript. These skills enabled me to contribute significantly to the development of new features and tools for the CI/CD process.
 
 Over the course of my internship, I was able to create eight new features to improve the CI/CD process, each designed to address specific needs and constraints identified by other teams. By working collaboratively with my colleagues and leveraging my newfound expertise in Git and scripting languages, I was able to develop solutions that were efficient, effective, and tailored to the needs of the Apple development team.
 
+### Community Python Class
 
 I had the incredible opportunity to help teach a Python class in Springfield through the ICNA organization. The goal of the class was to introduce members of the community to computer science and Python basics, with the aim of sparking their interest in the programming field.
 
@@ -50,6 +35,23 @@ Being able to share my knowledge and passion for computer science with others wa
 
 I look forward to continuing to find opportunities to teach and mentor others in the future, and I am committed to giving back to my community by sharing my knowledge
 
+<br />
+👨🏽‍💻 What apps I use
+
+<img alt="VScode" src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png" width="20" height="20"> <img alt="xcode" src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" width="20" height="20"> <img alt="BBedit" src="https://cdn.jim-nielsen.com/macos/1024/bbedit-2019-04-22.png" width="20" height="20"> <img alt="Flow" src="https://flowapp.info/wp-content/uploads/2020/05/flow-logo-1024x1024.png" width="20" height="20"> <img alt="FreeForm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Apple_Freeform_icon.svg/1920px-Apple_Freeform_icon.svg.png?20221230141620" width="20" height="20">
+
+In Order
+
+* VSCode: I use VSCode for coding because it has tons of cool plugins and features that make my life easier.
+
+* Xcode: I use Xcode for making iOS and macOS apps because it's got everything I need to design, build, test, and deploy.
+
+* BBEdit: I use BBEdit for editing text and code because it's super powerful and customizable.
+
+* Flow: I use Flow for managing my time with the Pomodoro technique to stay focused and avoid distractions.
+
+* Freeform: I use Freeform for making diagrams because it's easy to use and can export in different formats. It's also Apple's own app for drawing diagrams.
+
 **Free time:**
  * Being with friends!
  * Working on hardware and software projects
@@ -57,9 +59,3 @@ I look forward to continuing to find opportunities to teach and mentor others in
  * Giving back to the community by volunteering
  * Woodworking
  * Cooking and trying new recipes
-
-
-
-
-
-
