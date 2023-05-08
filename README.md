@@ -2,9 +2,7 @@
 
 <a href="https://www.linkedin.com/in/notomer/">
   <img align="left" alt="Omer Khan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-
+</a>  
 
 ## About me 🙋🏽‍♂️
 
@@ -37,20 +35,7 @@ I look forward to continuing to find opportunities to teach and mentor others in
 
 ## 👨🏽‍💻 What apps I use
 
-<style>
-    .tool-icon {
-        width: 60px;
-        height: 60px;
-        margin-right: 10px;
-    }
-</style>
-
-<img class="tool-icon" alt="VScode" src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png"> 
-<img class="tool-icon" alt="xcode" src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png"> 
-<img class="tool-icon" alt="BBedit" src="https://cdn.jim-nielsen.com/macos/1024/bbedit-2019-04-22.png"> 
-<img class="tool-icon" alt="Flow" src="https://flowapp.info/wp-content/uploads/2020/05/flow-logo-1024x1024.png"> 
-<img class="tool-icon" alt="FreeForm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Apple_Freeform_icon.svg/1920px-Apple_Freeform_icon.svg.png?20221230141620">
-
+<img alt="VScode" src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png" width="60" height="60"> <img alt="xcode" src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" width="60" height="60"> <img alt="BBedit" src="https://cdn.jim-nielsen.com/macos/1024/bbedit-2019-04-22.png" width="60" height="60"> <img alt="Flow" src="https://flowapp.info/wp-content/uploads/2020/05/flow-logo-1024x1024.png" width="60" height="60"> <img alt="FreeForm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Apple_Freeform_icon.svg/1920px-Apple_Freeform_icon.svg.png?20221230141620" width="60" height="60">
 
 In Order
 
