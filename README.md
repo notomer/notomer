@@ -1,8 +1,7 @@
 # Hi, I'm Omer <img src="https://i.imgur.com/vWJG0.gif" width="25px">
 
-<div align="center">
   <a href="https://www.linkedin.com/in/notomer/">
-    <img align="left" alt="Omer Khan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="right" alt="Omer Khan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>  
 </div>  
 
