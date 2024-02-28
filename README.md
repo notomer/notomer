@@ -1,7 +1,7 @@
 # Hi, I'm Omer 👋🏽
 
   <a href="https://www.linkedin.com/in/notomer/">
-    <img align="right" alt="Omer Khan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="right" alt="Omer Khan's LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&psig=AOvVaw0KhmeDSP9FKQct863_c6RQ&ust=1709221005624000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjjx8iuzoQDFQAAAAAdAAAAABAE)" />
   </a>  
 </div>  
 
