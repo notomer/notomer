@@ -8,7 +8,7 @@
 ## About me 🙋🏽‍♂️
 
 
-Currently, a Computer Science student at George Mason University
+Currently, a Masters Computer Science student at Georgia Tech
 
 I am incredibly passionate about Machine Learning and iOS/macOS application development. I believe that these fields have the potential to revolutionize the way we interact with technology and the world around us.
 
