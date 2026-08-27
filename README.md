@@ -1,31 +1,22 @@
-# Hi, I’m Omer
+# Hi, I'm Omer
 
-Master’s CS student at Georgia Tech.  
-Focused on machine learning and iOS/macOS development.
+Software engineer interested in building ambitious products at the intersection of **AI, infrastructure, and developer tools**.
 
-I’m interested in building high-leverage software at the intersection of AI, computer vision, and Apple platforms — with an emphasis on clean engineering, performance, and product quality.
+Currently at **Leidos**, working on an AI platform — building multi-agent systems with **LangChain / LangGraph**, backend infrastructure, and bare-metal support.
 
----
+Previously at **Apple**, where I worked on developer infrastructure and CI/CD tooling used by engineering teams.
 
-## Experience
+M.S. in Computer Science from Georgia Tech. 
 
-### Apple — Software Engineering Intern (CI/CD, Tooling)
-Worked on CI/CD tooling and workflow improvements supporting large-scale development.  
-Built and shipped eight features used by internal engineering teams.
+Outside of work, I'm usually **building something, learning something, or exploring an idea that started with "what if..."**
 
-Gained deep exposure to Git internals and automation through Shell, Ruby, and AppleScript.  
-Focused on identifying bottlenecks, improving reliability, and reducing friction for engineers.
+### Building & exploring
 
-### Community Python Class — ICNA (Springfield)
-Supported instruction for a beginner Python course.  
-Helped students learn core programming fundamentals and develop confidence through hands-on practice.
+`AI Agents` · `LLMs` · `Backend Systems` · `Infrastructure` · `Developer Tools`
 
----
+### Find me
 
-## Tools
-VSCode, Xcode, BBEdit, Flow, Freeform
+[LinkedIn](https://www.linkedin.com/in/notomer/) · [Website](https://notomer.com)
 
----
-
-## Outside of Work
-Hardware/software projects, hiking, biking, woodworking, cooking, volunteering, and spending time with friends.
+"make somethingwonderful
+and put it out there.."
