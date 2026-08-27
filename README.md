@@ -6,9 +6,6 @@ Currently at **Leidos**, working on an AI platform — building multi-agent syst
 
 Previously at **Apple**, where I worked on developer infrastructure and CI/CD tooling used by engineering teams.
 
-M.S. in Computer Science from Georgia Tech. 
-
-Outside of work, I'm usually **building something, learning something, or exploring an idea that started with "what if..."**
 
 ### Building & exploring
 
@@ -18,5 +15,5 @@ Outside of work, I'm usually **building something, learning something, or explor
 
 [LinkedIn](https://www.linkedin.com/in/notomer/) · [Website](https://notomer.com)
 
-"make somethingwonderful
+"make something wonderful
 and put it out there.."
